@@ -13,10 +13,11 @@ The project includes:
 
 ---
 
-## Live API
+## 🚀 Live API
 My deployed API is running here:  
-[https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+[https://devsecops-sample-app.onrender.com](https://devsecops-sample-app.onrender.com)
 
 Example request:
 ```bash
-curl https://your-app-name.onrender.com/
+curl https://devsecops-sample-app.onrender.com/
+
