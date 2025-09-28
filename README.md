@@ -1,1 +1,1 @@
-# devsecops-sample-app
+[![CI Pipeline](https://github.com/Kavyashreem1/devsecops-sample-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Kavyashreem1/devsecops-sample-app/actions/workflows/ci.yml)
