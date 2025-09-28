@@ -33,4 +33,3 @@ jobs:
 
       - name: Run security scan with Bandit
         run: bandit -r app
-
