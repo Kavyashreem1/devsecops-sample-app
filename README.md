@@ -3,26 +3,30 @@ DevSecOps Sample App
 
 
 
-📄 Project Overview
+📌 Project Title
 
-This is a minimal FastAPI application created to demonstrate DevSecOps awareness.
+Challenge 3: DevSecOps Awareness via CI/CD + Static Code Analysis
+
+📄 Project Description
+
+This project demonstrates DevSecOps awareness by setting up an automated CI/CD pipeline for a minimal FastAPI application. The pipeline integrates linting, unit testing, and static code analysis to enforce security and quality gates. This ensures the application is safe, reliable, and deployable in a real-world environment.
+
+Task: Set up CI/CD and security checks for a simple app.
+Objective: Show understanding of DevSecOps by creating automated pipelines with basic security and quality gates.
+
+📂 Project Overview
 
 The project includes:
 
 ✅ CI/CD pipeline using GitHub Actions
-
 ✅ Linting with Flake8
-
 ✅ Unit testing with Pytest
-
 ✅ Static code analysis with Bandit
-
 ✅ Deployment to Render (live API)
 
 🚀 Live API
 
-My deployed API is running here:
-👉 https://devsecops-sample-app.onrender.com
+My deployed API is running here: 👉 https://devsecops-sample-app.onrender.com
 
 Example request:
 
