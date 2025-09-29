@@ -4,14 +4,9 @@ DevSecOps Sample App
 ![Bandit Security](https://img.shields.io/badge/security-Bandit-green)
 
 
+📌 Challenge 3: DevSecOps Awareness via CI/CD + Static Code Analysis
 
-
-
-📌 Project Title
-
-Challenge 3: DevSecOps Awareness via CI/CD + Static Code Analysis
-
-📄 Project Description
+📄 Description
 
 This project demonstrates DevSecOps awareness by setting up an automated CI/CD pipeline for a minimal FastAPI application. The pipeline integrates linting, unit testing, and static code analysis to enforce security and quality gates. This ensures the application is safe, reliable, and deployable in a real-world environment.
 
@@ -32,12 +27,12 @@ The project includes:
 
 My deployed API is running here: 👉 https://devsecops-sample-app.onrender.com
 
-Example request:
+Test request:
 
 curl https://devsecops-sample-app.onrender.com/
 
 
-Example response:
+Test response:
 
 {
   "status": "ok",
